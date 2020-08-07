@@ -14,11 +14,14 @@
   },
   "author": "Suraj Sahani",
   "license": "ISC",
-
-  
   "homepage": "https://github.com/1-suraj/git-hub#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
   }
 }
