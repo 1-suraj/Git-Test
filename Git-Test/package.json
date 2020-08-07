@@ -13,9 +13,8 @@
     "url": "git+https://github.com/1-suraj/git-hub.git"
   },
   "author": "Suraj Sahani",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/1-suraj/git-hub/issues"
+  "license": "ISC"
+  
   },
   "homepage": "https://github.com/1-suraj/git-hub#readme",
   "devDependencies": {
