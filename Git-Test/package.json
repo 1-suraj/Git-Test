@@ -13,9 +13,9 @@
     "url": "git+https://github.com/1-suraj/git-hub.git"
   },
   "author": "Suraj Sahani",
-  "license": "ISC"
+  "license": "ISC",
+
   
-  },
   "homepage": "https://github.com/1-suraj/git-hub#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
